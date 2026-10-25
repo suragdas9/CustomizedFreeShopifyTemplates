@@ -1,0 +1,9 @@
+﻿# Archives (large, optional)
+archives/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+_preview_tmp.html
